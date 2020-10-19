@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 aaa
 bbb
-=======
-aaa
->>>>>>> dc4d73b... refact: aaa
+
+ccc
+ddd
+
